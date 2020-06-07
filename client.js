@@ -1,40 +1,20 @@
 $(document).ready(function() {
     var links = [
 		{
-            name: 'spectrum',
-            link: 'http://steamcommunity.com/id/3x6fv'
+            name: 'Infinity Engine - QoS',
+            link: 'index'
         },
 		{
-            name: 'sonder',
-            link: 'http://steamcommunity.com/id/therealdealmao'
+            name: 'Infinity Engine - IW7',
+            link: 'index'
         },
     {
-            name: 'athena',
-            link: 'https://steamcommunity.com/id/athvna/'
+            name: 'IW4 Gunfight',
+            link: 'index'
     },
 		{
-            name: 'delusional',
-            link: 'http://steamcommunity.com/id/copycat11/'
-        },
-		{
-            name: 'clue',
-            link: 'http://steamcommunity.com/id/qyoto'
-        },
-		{
-            name: 'kyle',
-            link: 'http://steamcommunity.com/id/kyl3333/'
-        },
-		{
-            name: 'soup',
-            link: 'http://steamcommunity.com/id/mynamejefflol'
-        },
-		{
-            name: 'pstlgrp',
-            link: 'http://steamcommunity.com/id/pstlgrp/'
-        },
-		{
-            name: 'sinner',
-            link: 'http://steamcommunity.com/id/Sinnerd/'
+            name: 'COD-MOD EMILIYA',
+            link: 'https://www.youtube.com/watch?v=dYP2lcSEFNA'
         },
     ];
 

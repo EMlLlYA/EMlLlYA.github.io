@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "ㅤ", "3x6fv", "ㅤ", "t", "th", "thr", "thre", "three", "ㅤ", "three6", "three6 ", "three6 3", "three6 3x", "three6 3x6", "three6 3x6f", "three6 3x6fv", "three6 ", "three6 3x6fv", "three6 ", "three6 3x6fv",  "three6", "three", "thre"," thr", "th", "t", "", ];
+var titleText = [ "ㅤ", "emiliya", "ㅤ", "e", "em", "emi", "emil", "emili", "ㅤ", "emiliy", "emiliya", "EMILIYA ", "emiliya", "EMILIYA ", "emiliya",  "EMILIYA", "emiliya", "emiliy"," emili", "emil", "emi", "em", "e", "" ];
 
 function loop(){
 
